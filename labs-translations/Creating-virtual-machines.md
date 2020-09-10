@@ -65,7 +65,7 @@ In this lab, you learn how to perform the following tasks:
 7. To see details about the CPUs installed on your VM, run the following command:
    > `lscpu`
 8. To exit the SSH terminal, run the following command:
-   > 'exit'
+   > `exit`
 
 ## Task 4: Review
 
